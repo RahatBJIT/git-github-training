@@ -3,6 +3,8 @@
 2. Project's Description
 3. Installation
 4. Contributors
+ 
+<br>
 
 ## 1. Project's Title
 *This is the name of the project. It describes the whole project in one sentence, and helps 
@@ -47,6 +49,19 @@ Your description is an extremely important aspect of your project. A well-crafte
    <br> `npm install`
 2. Enter your API in config.js 
    <br> `const API_KEY = 'ENTER YOUR API';`
+
+<br>
+
+## 4. Contributors
+
+Thank you to the following contributors who have helped to improve this project: 
+
+| Name | Email | Phone| 
+| ------ | ------ | ------|
+| Ujjal K Saha | ujjal.kumer@bjitgroup.com | +932105711
+| Md. Rahat Ibna Hossain | rahat.hossain@bjitacademy.com | 01580661685
+| Barha Meherun Pritha | meherun.pritha@bjitacademy.com | 01829671640
+| Kazi Md Nazmul Hoque | kazi.nazmul@bjitacademy.com | 01850320559
 
 <br>
 
