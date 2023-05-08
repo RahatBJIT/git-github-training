@@ -62,6 +62,6 @@ Thank you to the following contributors who have helped to improve this project:
 | Md. Rahat Ibna Hossain | rahat.hossain@bjitacademy.com | 01580661685
 | Barha Meherun Pritha | meherun.pritha@bjitacademy.com | 01829671640
 | Kazi Md Nazmul Hoque | kazi.nazmul@bjitacademy.com | 01850320559
-
+| Md. Taslim Hosen Shanto | md.taslim@bjitacademy.com | 01747538382
 <br>
 
